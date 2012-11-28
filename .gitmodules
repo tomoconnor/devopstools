@@ -1,0 +1,9 @@
+[submodule "capfiles"]
+	path = capfiles
+	url = git@github.com:tomoconnor/capfiles.git
+[submodule "puppet"]
+	path = puppet
+	url = git@github.com:tomoconnor/puppet.git
+[submodule "logstash-recipes"]
+	path = logstash-recipes
+	url = git@github.com:tomoconnor/logstash-recipes.git
